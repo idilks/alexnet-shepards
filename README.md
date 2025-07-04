@@ -256,13 +256,7 @@ which python
 - Similarity correlations (Pearson r, Spearman ρ)
 - Layer-wise analysis results
 - Model performance evolution
-
-## 🎯 Next Steps
-
-1. **Scale Up**: Increase dataset size or model complexity
-2. **Multi-GPU**: Extend to distributed training
-3. **Hyperparameter Tuning**: Use wandb sweeps for optimization
-4. **Analysis Extensions**: Add more similarity metrics or analysis layers
+  
 
 ## 📝 Notes
 
